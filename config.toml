@@ -1,0 +1,4 @@
+baseURL = "https://batmananimekooqerty.vercel.app"
+languageCode = "en-us"
+title = "Watch Batman Now"
+theme = "hugo-theme-minos"
